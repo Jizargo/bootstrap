@@ -7,3 +7,6 @@
 User-agent: *
 Disallow:
 Sitemap: {{ site.url }}/sitemap.xml
+
+
+add my words.
